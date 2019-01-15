@@ -9,10 +9,11 @@
 # 已加入池的加速器
 
 - DianNao
+- ShiDianNao
 
 # 正在加入池的加速器
 
-- ShiDianNao
+- TPU
 
 # 预计加入池的加速器
 
